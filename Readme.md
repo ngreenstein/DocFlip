@@ -1,5 +1,5 @@
 #DocFlip
-DocFlip is a Chrome extension that makes it easy to switch between the Mac and iOS versions of Apple's Developer Library documentation. It adds a 'flip' link to the header of any supported page: ![Screenshot of the DocFlip link](link.png) Clicking the link will take you to the corresponding document in the other platform's Developer Library.
+DocFlip is a Chrome extension that makes it easy to switch between the Mac and iOS versions of Apple's Developer Library documentation. It adds a 'flip' link to the header of any supported page: ![Screenshot of the DocFlip link](http://i.imgur.com/nppxJ.png) Clicking the link will take you to the corresponding document in the other platform's Developer Library.
 
 #Supported Pages
 DocFlip should support reference docs for all classes and protocols that are present on both Mac and iOS. This includes items with the same name on both platforms like `NSString` and items that have the same name but different prefixes on each platform like `NSApplicationDelegate` and `UIApplicationDelegate`.

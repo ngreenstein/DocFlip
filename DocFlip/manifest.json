@@ -3,6 +3,7 @@
 	"version": "1.0",
 	"manifest_version": 2,
 	"description": "DocFlip makes it easy to between the Mac and iOS versions of Apple's Developer Library docs by adding a 'flip' link to the header of any supported page.",
+	"homepage_url": "https://github.com/nathangreenstein/DocFlip",
 	"icons": {
 		"16": "icon16.png",
 		"48": "icon48.png",
