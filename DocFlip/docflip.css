@@ -1,0 +1,17 @@
+/* Base styling of the DocFlip link. */
+#docFlipLink {
+	color: white !important;
+	float: left;
+	font-size: 20px;
+	height: 100%;
+	line-height: 34px;
+	padding: 0 10px;
+	-webkit-transition-property: '-webkit-transform, line-height';
+	-webkit-transition-duration: 0.3s;
+}
+
+/* When the link is hovered over, 'flip' it around in a circle. */
+#docFlipLink:hover {
+	line-height: 38px;
+	-webkit-transform: rotate(180deg);
+}
